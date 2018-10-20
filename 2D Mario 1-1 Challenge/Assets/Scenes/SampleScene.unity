@@ -8246,9 +8246,9 @@ Transform:
   - {fileID: 1877947776}
   - {fileID: 1737196215}
   - {fileID: 1150939784}
-  - {fileID: 704443997}
-  - {fileID: 49244339}
   - {fileID: 751551607}
+  - {fileID: 49244339}
+  - {fileID: 704443997}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
